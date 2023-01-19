@@ -1,4 +1,4 @@
-Senior Full Stack Developer
+GO FORWARD
 ---------------------------
 
 I am a developer who learns while trying myself. I am also an engineer with a focus on Full Stack using React, Angular, Vue and Node(both Javascript and Typescript), and ASP.NET. I look forward to working with creative teams on challenging projects. I am also a laid-back person who can get along well with anyone. I love being with different types of people and always challenging myself to improve in everything I do. I love coding because I am always learning and challenging myself due to the non-repeating nature of the task.
